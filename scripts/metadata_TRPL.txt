@@ -1,0 +1,11 @@
+---
+title: The Rust Programming Language  
+author:
+- Steve Klabnik
+- Carol Nichols
+identifier:
+- scheme: ISBN-13
+- text: 9781718500440
+lang: en-US
+cover-image: Rust2018_front.png
+...

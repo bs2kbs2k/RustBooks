@@ -1,0 +1,10 @@
+"Rust By Example" https://github.com/rust-lang/rust-by-example.git rust-by-example src
+"The Edition Guide" https://github.com/rust-lang/edition-guide.git edition-guide src
+"The Cargo Book" https://github.com/rust-lang/cargo.git cargo src/doc/src
+"The rustdoc book" https://github.com/rust-lang/rust.git rust src/doc/rustdoc/src
+"The rustc book" https://github.com/rust-lang/rust.git rust src/doc/rustc/src
+"Command Line Applications in Rust" https://github.com/rust-cli/book.git book src
+"Rust and WebAssembly" https://github.com/rustwasm/book.git book src
+"The Embedded Rust Book" https://github.com/rust-embedded/book.git book src
+"The Rust Reference" https://github.com/rust-lang/reference.git reference src
+"The Rustonomicon" https://github.com/rust-lang/nomicon.git nomicon src
